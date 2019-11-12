@@ -1,5 +1,7 @@
 **Will Code For Drinks** is a social event hosted by ScrollBar at IT University of Copenhagen. Teams of up to three people collaborate to solve fun programming problems in return for free beverages at the bar.
 
+![](assets/wcfd-banner.png)
+
 With 50 teams participating, **Will Code For Drinks** is one of the largest programming events in Scandinavia. Unlike many similar events, **Will Code For Drinks** is not a competition.
 The problems are constructed to be attractive for newcomers, the atmosphere is extremely relaxed, and participants are encouraged to help each other with debugging, problem solving, or basic programming language or computer issues. We  are available and eager to help at all times during the event. There are no prizes to win, and no awards ceremony; the focus is on problem solving, social interaction, programming, and fun.
 
