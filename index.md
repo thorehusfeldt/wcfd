@@ -1,14 +1,14 @@
 **Will Code For Drinks** is a social event hosted by ScrollBar at IT University of Copenhagen. Teams of up to three people collaborate to solve fun programming problems in return for free beverages at the bar.
 
 With 50 teams participating, **Will Code For Drinks** is one of the largest programming events in Scandinavia. Unlike many similar events, **Will Code For Drinks** is not a competition.
-The problems are constructed to be attractive for newcomers, the atmosphere is extremely relaxed, and participants are encouraged to help each other with debugging, problem solving, or basic programming language or computer issues. We  are available and eager to help at all times during the event. There are no prizes to win, and no awards ceremony.
+The problems are constructed to be attractive for newcomers, the atmosphere is extremely relaxed, and participants are encouraged to help each other with debugging, problem solving, or basic programming language or computer issues. We  are available and eager to help at all times during the event. There are no prizes to win, and no awards ceremony; the focus is on problem solving, social interaction, programming, and fun.
 
-There should be entertaining and meaningful for everybody, no matter your skill level: Even if you have zero confidence in your own programming ability, we promise that you’ll get at least one problem done. On the other hand, even if you’re a very experienced programmer, the harder problems should be enough to keep you busy. Don’t expect to solve all problems.
+The event should be entertaining and meaningful for everybody, no matter your skill level: Even if you have zero confidence in your own programming ability, we promise that you’ll get at least one problem done. On the other hand, even if you’re a very experienced programmer, the harder problems should be enough to keep you busy. Don’t expect to solve all problems.
 
 Who is this for?
 ----------------
 
-Everybody with basic programming skills. The ideal participants are first-year students with a few months of introductory programming under their belt. Students from outside ITU are *extremely welcome*, as are non-students, and even professors.
+The ideal participants are first-year students with a few months of introductory programming under their belt. Students from outside ITU are *extremely welcome*, as are non-students, and even professors.
 
 Next event
 ----------
