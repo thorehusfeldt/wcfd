@@ -56,9 +56,9 @@ Here’s how to have the most fun:
 * One free beverage per solved problem per person, up to a maximum of three beverages per person.
 * Some twenty different programming languages are accepted, including Java, Python, JavaScript, and various C dialects. 
   See the [Kattis language overview](https://open.kattis.com/help) for the full list.
-* Teams must register before the event; anonymous participation is fine.
+* Teams must register before the event; anonymous participation is fine. Registration opens 15:30 on site.
 * After solving a problem (and having it accepted on the server), immediately walk up to the bar and tell the bartender which team you are on.
-* The event is hosted on [ITU’s Kattis](https://itu.kattis.com) platform. Link TBA.
+* The event is hosted on ITU’s Kattis server at [itu.kattis.com/sessions/wcfdf2019](https://itu.kattis.com/sessions/wcfdf2019].
 
 Previous events
 ---------------
