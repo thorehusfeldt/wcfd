@@ -33,6 +33,9 @@ The next **Will Code For Drinks** takes place
 * 16:00: Server opens, problems are made available at [itu.kattis.com/sessions/wcfdf2019](https://itu.kattis.com/sessions/wcfdf2019).
 * 19:00: Server closes, event ends.
 
+Problem authors: Thore Husfeldt, Simon Lindholm, Troels Bjerre Lund. 
+Organisers and assistants: Martin Aumüller, Thore Husfeldt, Troels Bjerre Lund. 
+
 [Facebook Event](https://www.facebook.com/events/549759452468317/)
 
 (No) Preparation
