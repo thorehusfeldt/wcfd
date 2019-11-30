@@ -27,16 +27,7 @@ Next event
 
 The next **Will Code For Drinks** takes place 
 
-* Friday, 29 November 2019.
-* ScrollBar, IT University of Copenhagen, Rued Langgaards Vej 7, Copenhagen, Denmark.
-* 15:30: Event starts. Help with registration, IT issues, etc.
-* 16:00: Server opens, problems are made available at [itu.kattis.com/sessions/wcfdf2019](https://itu.kattis.com/sessions/wcfdf2019).
-* 19:00: Server closes, event ends.
-
-Problem authors: Thore Husfeldt, Simon Lindholm, Troels Bjerre Lund. 
-Organisers and assistants: Martin Aumüller, Thore Husfeldt, Troels Bjerre Lund. 
-
-[Facebook Event](https://www.facebook.com/events/549759452468317/)
+* Friday, somewhen in Spring 2020.
 
 (No) Preparation
 ----------------
@@ -63,11 +54,11 @@ Here’s how to have the most fun:
   See the [Kattis language overview](https://open.kattis.com/help) for the full list.
 * Teams must register before the event; anonymous participation is fine. Registration opens 15:30 on site.
 * After solving a problem (and having it accepted on the server), immediately walk up to the bar and tell the bartender which team you are on.
-* The event is hosted on ITU’s Kattis server at [itu.kattis.com/sessions/wcfdf2019](https://itu.kattis.com/sessions/wcfdf2019).
 
 Previous events
 ---------------
 
+* 29 November 2019. [Problems on Open Kattis](https://open.kattis.com/problem-sources/Will%20Code%20for%20Drinks%202019/2) [Event on ITU’s Kattis](itu.kattis.com/sessions/wcfdf2019), [repo with solutions and problem data](https://github.com/thorehusfeldt/will-code-for-drinks-F2019)
 * 23 November 2018. [Event on Open Kattis](https://open.kattis.com/contests/f4ktq9)
 * 12 April 2019. [Event on Open Kattis](https://open.kattis.com/contests/fwmxyb)
 
