@@ -27,7 +27,7 @@ Next event
 
 The next **Will Code For Drinks** takes place 
 
-* Friday, 12 November 2021.
+* Friday, 12 November 2021, 16-19. _Will Code for Drinks 2021_ takes place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi](https://fredagscafeen.dk/). The problems will be available on Kattis at the time of the event, presumably at `wcfd21.kattis.com`.
 
 (No) Preparation
 ----------------
@@ -37,7 +37,7 @@ However:
 
 * It’s more fun if you find some friends to team up with.
 * One of you should bring a computer for programming, and you’ll need pen and paper for problem solving and collaborative thinking. Bring a charger or make sure your batteries are full.
-* If you’ve never done something like this before and want to get a feeling for the type of problems appearing at the event, you can try to solve some easy problems on Open Kattis, such as [hello](https://open.kattis.com/problems/hello), [babybites](https://open.kattis.com/problems/babybites), or [guess](https://open.kattis.com/problems/guess).
+* If you’ve never done something like this before and want to get a feeling for the type of problems appearing at the event, you can try to solve some easy problems on Open Kattis, such as [hello](https://open.kattis.com/problems/hello), [babybites](https://open.kattis.com/problems/babybites).
 This is particularly useful for learning how to read and write input and output. But don’t stress out over this beforehand – we’ll help during the event.
 
 Details
@@ -45,7 +45,7 @@ Details
 
 Here’s how to have the most fun:
 
-* Bring your own laptop, which must be able to connect to the ITU wireless network, for instance via eduroam.
+* Bring your own laptop, which must be able to connect to the wireless network, for instance via eduroam.
 * One laptop per team
 * Up to three people per team, three is best
 * The event lasts for three hours and contains half a dozen problems. 
@@ -53,7 +53,7 @@ Here’s how to have the most fun:
 * Some twenty different programming languages are accepted, including Java, Python, JavaScript, and various C dialects. 
   See the [Kattis language overview](https://open.kattis.com/help) for the full list.
 * Teams must register before the event; anonymous participation is fine. Registration opens 15:30 on site.
-* After solving a problem (and having it accepted on the server), immediately walk up to the bar and tell the bartender which team you are on.
+* After your team solves a problem (and having it accepted on the server), you will get a drinks tickets for the bar.
 
 Previous events
 ---------------
