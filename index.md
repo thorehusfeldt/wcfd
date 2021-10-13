@@ -27,7 +27,7 @@ Next event
 
 The next **Will Code For Drinks** takes place 
 
-* Friday, 12 November 2021, 16-19. _Will Code for Drinks 2021_ takes place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi](https://fredagscafeen.dk/). The problems will be available on Kattis at the time of the event, presumably at `wcfd21.kattis.com`.
+* Friday, 12 November 2021, 16-19. _Will Code for Drinks 2021_ takes place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi, Aarhus Universitet](https://fredagscafeen.dk/). The problems will be available on Kattis at the time of the event, presumably at `wcfd21.kattis.com`.
 
 (No) Preparation
 ----------------
