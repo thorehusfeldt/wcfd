@@ -37,7 +37,7 @@ However:
 
 * It’s more fun if you find some friends to team up with.
 * One of you should bring a computer for programming, and you’ll need pen and paper for problem solving and collaborative thinking. Bring a charger or make sure your batteries are full.
-* If you’ve never done something like this before and want to get a feeling for the type of problems appearing at the event, you can try to solve some easy problems on Open Kattis, such as [hello](https://open.kattis.com/problems/hello), [babybites](https://open.kattis.com/problems/babybites).
+* If you’ve never done something like this before and want to get a feeling for the type of problems appearing at the event, you can try to solve some easy problems on Open Kattis, such as [Hello World!](https://open.kattis.com/problems/hello), [Baby Bites](https://open.kattis.com/problems/babybites), or maybe even the WCFD 2019 problem [Drinking Song](https://open.kattis.com/problems/drinkingsong).
 This is particularly useful for learning how to read and write input and output. But don’t stress out over this beforehand – we’ll help during the event.
 
 Details
