@@ -19,7 +19,6 @@ On the other hand, the harder problems should be enough to keep experienced prog
 Don’t expect to solve all problems; aim at two or three.
 
 The target participants are first-year students with a few months of introductory programming under their belt, and who have never participated in something like this.
-Students from outside ITU are *extremely welcome*, as are non-students. 
 Some of the problems are easy enough even for Computer Science professors!
 
 Next event
@@ -28,6 +27,8 @@ Next event
 The next **Will Code For Drinks** takes place 
 
 * Friday, 12 November 2021, 16-19. _Will Code for Drinks 2021_ takes place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi, Aarhus Universitet](https://fredagscafeen.dk/). The problems will be available on Kattis at the time of the event, presumably at `wcfd21.kattis.com`.
+
+The problem setters for WCFD 2021 are Troels Bjerre Lund, Thore Husfeldt (chair), Christian Janos Lebeda, and Johan Sannemo. WCFD 2021 enjoys social, financial, and/or moral support of the computer science departments at IT University of Copenhagen and Aarhus University, ScrollBar and Datalogisk Fredagscafé, the BARC Centre for Basic Algorithms Research Copenhagen, and Kattis.
 
 (No) Preparation
 ----------------
@@ -61,4 +62,5 @@ Previous events
 * 29 November 2019. [[Problems on Open Kattis](https://open.kattis.com/problem-sources/Will%20Code%20for%20Drinks%202019/2)],  [[Event on ITU’s Kattis](itu.kattis.com/sessions/wcfdf2019)], [[repo with solutions and problem data](https://github.com/thorehusfeldt/will-code-for-drinks-F2019)]
 * 23 November 2018. [[Event on Open Kattis](https://open.kattis.com/contests/f4ktq9)]
 * 12 April 2019. [[Event on Open Kattis](https://open.kattis.com/contests/fwmxyb)]
+
 
