@@ -28,7 +28,7 @@ The next **Will Code For Drinks** takes place
 
 * Friday, 12 November 2021, 16-19. _Will Code for Drinks 2021_ takes place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi, Aarhus Universitet](https://fredagscafeen.dk/). The problems will be available on Kattis at the time of the event, presumably at `wcfd21.kattis.com`.
 
-The problem setters for WCFD 2021 are Troels Bjerre Lund, Thore Husfeldt (chair), Christian Janos Lebeda, and Johan Sannemo. WCFD 2021 enjoys social, financial, and/or moral support of the computer science departments at IT University of Copenhagen and Aarhus University, ScrollBar and Datalogisk Fredagscafé, the BARC Centre for Basic Algorithms Research Copenhagen, and Kattis.
+The problem setters for WCFD 2021 are Troels Bjerre Lund, Thore Husfeldt (chair), Christian Janos Lebeda, Oskar Haarklou Veileborg, and Johan Sannemo. WCFD 2021 enjoys social, financial, and/or moral support of the computer science departments at IT University of Copenhagen and Aarhus University, ScrollBar and Datalogisk Fredagscafé, the BARC Centre for Basic Algorithms Research Copenhagen, and Kattis.
 
 (No) Preparation
 ----------------
