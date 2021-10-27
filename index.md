@@ -1,7 +1,7 @@
 **Will Code For Drinks** is a social event hosted by [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk).
 Teams of friends collaborate solving entertaining programming problems in return for free beverages at the bar.
 
-* Friday, 12 November 2021, 16-19. _Will Code for Drinks 2021_ [wcfd21.kattis.com](https://wcfd21.kattis.com).
+* Friday, 12 November 2021, 16-19. _Will Code for Drinks 2021_: [wcfd21.kattis.com](https://wcfd21.kattis.com).
 
 ![](assets/wcfd-banner.png)
 
