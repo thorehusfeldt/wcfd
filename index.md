@@ -61,7 +61,7 @@ Here’s how to have the most fun:
 Previous events
 ---------------
 
-* 29 November 2019. [[Problems on Open Kattis](https://open.kattis.com/problem-sources/Will%20Code%20for%20Drinks%202019/2)],  [[Event on ITU’s Kattis](itu.kattis.com/sessions/wcfdf2019)], [[repo with solutions and problem data](https://github.com/thorehusfeldt/will-code-for-drinks-F2019)]
+* 29 November 2019. [[Problems on Open Kattis](https://open.kattis.com/problem-sources/Will%20Code%20for%20Drinks%202019/2)],  [[Event on ITU’s Kattis](https://itu.kattis.com/sessions/wcfdf2019)], [[repo with solutions and problem data](https://github.com/thorehusfeldt/will-code-for-drinks-F2019)]
 * 23 November 2018. [[Event on Open Kattis](https://open.kattis.com/contests/f4ktq9)]
 * 12 April 2019. [[Event on Open Kattis](https://open.kattis.com/contests/fwmxyb)]
 
