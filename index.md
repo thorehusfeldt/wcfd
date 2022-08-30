@@ -1,16 +1,16 @@
 **Will Code For Drinks** is a social event hosted by [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk).
 Teams of friends collaborate solving entertaining programming problems in return for free beverages at the bar.
 
-* Friday, 12 November 2021, 16-19. _Will Code for Drinks 2021_: [wcfd21.kattis.com](https://wcfd21.kattis.com).
+* Friday, 11 November 2022, 16-19. _Will Code for Drinks 2022_: [wcfd22.kattis.com](https://wcfd22.kattis.com).
 
 ![](assets/wcfd-banner.png)
 
-With fifty teams participating, **Will Code For Drinks** is one of the largest programming events in Scandinavia.
+With more than 150 teams participating, **Will Code For Drinks** is one of the largest programming events in Scandinavia.
 The problems are constructed to be attractive for newcomers, the atmosphere is extremely relaxed, and participants are encouraged to help each other with problem solving, debugging, or basic programming language or computer issues.
 Assistants are available and eager to help at all times during the event.
 The focus is on problem solving, social interaction within and among teams, programming, confidence-building, and fun.
 
-Unlike many similar events, **Will Code For Drinks** is not a competition---there are no prizes to win and there is no awards ceremony.
+Unlike many similar events, **Will Code For Drinks** is not a competition---there are no prizes to win for programming skills and there is no awards ceremony.
 
 Who is this for?
 ----------------
@@ -26,16 +26,7 @@ Some of the problems are easy enough even for Computer Science professors!
 Next event
 ----------
 
-**Will Code For Drinks 2022** is planned for November 2022.
-
-### Call for problems
-
-Please send a description of a programming problem for WCFD 2022 to Thore Husfeldt via email to at `thore@itu.dk`; use the letters `WCFD` in the subject header – otherwise I’ll never find it again. Look at the problems from last year to get a feeling for what we’re looking for thematically. The deadline for submission is **15 August 2022**. Very easy problems are particularly welcome. You are encouraged to submit at least two candidate problems, preferably one easy, one medium. Thematic relevance trumps algorithmic novelty.
-
-You can check out the [CfP for NWERC 2021](https://2021.nwerc.eu/cfp/) for more thorough submissions guidelines, but – hey, it’s _Will Code for Drinks_, so don’t sweat it.
-
-If you “just” want to help with preparation, implementation, proofreading, and jury work: great.
-
+**Will Code For Drinks 2022** will take place on 11 November 2022, 16–19.
 
 (No) Preparation
 ----------------
