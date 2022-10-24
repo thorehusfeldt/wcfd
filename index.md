@@ -1,4 +1,4 @@
-**Will Code For Drinks** is a social event hosted by [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk) and [Fredagscafeen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk).
+**Will Code For Drinks** is a social event hosted by [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk) and [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk).
 Teams of friends collaborate solving entertaining programming problems in return for free beverages at the bar.
 
 * Friday, 11 November 2022, 16-19. _Will Code for Drinks 2022_: [wcfd22.kattis.com](https://wcfd22.kattis.com).
