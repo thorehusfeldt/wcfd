@@ -51,7 +51,7 @@ Here’s how to have the most fun:
 * One free beverage per solved problem per person, up to a maximum of three beverages per person.
 * Some twenty different programming languages are accepted, including Java, Python, JavaScript, and various C dialects. 
   See the [Kattis language overview](https://open.kattis.com/help) for the full list.
-* No prior registration is required. Create your team at [wcfd21.kattis.com](https://wcfd21.kattis.com) at any time, including after the event has started. Help with this is available from 15:45 in ScrollBar. Anonymous participation is fine; creative team names are appreciated.
+* No prior registration is required. Create your team at [wcfd22.kattis.com](https://wcfd22.kattis.com) at any time, including after the event has started. Help with this is available from 15:45 in ScrollBar. Anonymous participation is fine; creative team names are appreciated.
 * After your team solves a problem (and having it accepted on the server), you will get a drinks tickets for the bar.
 
 Previous events
