@@ -1,7 +1,8 @@
 **Will Code For Drinks** is a social event hosted by [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk) and [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk).
 Teams of friends collaborate solving entertaining programming problems in return for free beverages at the bar.
 
-* Friday, 11 November 2022, 16-19. _Will Code for Drinks 2022_: [wcfd22.kattis.com](https://wcfd22.kattis.com).
+* Friday, 11 November 2022, 16-19. _Will Code for Drinks 2022_: [wcfd22.kattis.com](https://wcfd22.kattis.com).  
+* The ScrollBar event at ITU Copenhagen  includes — _BEST TEAM COSTUME OF THE NIGHT_ —  Although WCFD is not a competition, we decided to host a small internal event to encourage and challenge the participants' creative mind. Therefore there will be a (casual) prize handing for the best team costume of the night. Dress up in matching outfits, in outfits representing your team-name, as your role model or whatever floats your boat. The top-three best team costumes will be awarded a prize (corresponding to their place) at the end of the event.
 
 ![](assets/wcfd-banner.png)
 
