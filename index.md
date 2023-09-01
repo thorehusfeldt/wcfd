@@ -26,6 +26,9 @@ Next event
 
 **Will Code For Drinks 2023** is planned for Friday, 10 November 2023, 16–19 (Copenhagen time).
 
+* **Call for problems.** If you want to join problem development, email thore@itu.dk, preferably with a suggestion or two for a problem. Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time during September and October 2023.
+* **Call for hosts.** If you want to _host_ a WCFD event in 2023, also email thore@itu.dk. Hosting involves very little; but you _must_ provide a setup for a _physical_ event that is consistent in atmosphere with WCFD. In particular, it shouldn't feel like a competition, and the host should hand out free beverages for solved problems.
+
 (No) Preparation
 ----------------
 
