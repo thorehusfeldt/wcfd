@@ -1,4 +1,4 @@
-**Will Code For Drinks** is a social event originating at [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk) and [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk).
+**Will Code For Drinks** is a social event originating at [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk)
 Teams of friends collaborate to solve entertaining programming problems in return for free beverages at the bar.
 
 ![](assets/wcfd-banner.png)
@@ -28,8 +28,8 @@ Next event
 
 Known hosts:
 
-* ScrollBar, IT University of Copenhagen
-* Datalogisk Fredagsbar, Department of Computer Science, Aarhus University
+* [ScrollBar](https://scrollbar.dk), IT University of Copenhagen, [IT University of Copenhagen](https://www.itu.dk)
+* [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk)
 * [Goethe-Universität Frankfurt](https://tcs.uni-frankfurt.de/wcfd/)
 
 * **Call for problems.** If you want to join problem development, email thore@itu.dk, preferably with a suggestion or two for a problem. Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time during September and October 2023.
