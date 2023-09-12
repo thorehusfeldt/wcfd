@@ -1,4 +1,4 @@
-**Will Code For Drinks** is a social event hosted by [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk) and [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk).
+**Will Code For Drinks** is a social event originating at [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk) and [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk).
 Teams of friends collaborate to solve entertaining programming problems in return for free beverages at the bar.
 
 ![](assets/wcfd-banner.png)
@@ -24,7 +24,13 @@ Some of the problems are easy enough even for Computer Science professors!
 Next event
 ----------
 
-**Will Code For Drinks 2023** is planned for Friday, 10 November 2023, 16–19 (Copenhagen time).
+**Will Code For Drinks 2023** takes place on Friday, 10 November 2023, 16–19 (Copenhagen time).
+
+Known hosts:
+
+* ScrollBar, IT University of Copenhagen
+* Datalogisk Fredagsbar, Department of Computer Science, Aarhus University
+* [Goethe-Universität Frankfurt](https://tcs.uni-frankfurt.de/wcfd/)
 
 * **Call for problems.** If you want to join problem development, email thore@itu.dk, preferably with a suggestion or two for a problem. Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time during September and October 2023.
 * **Call for hosts.** If you want to _host_ a WCFD event in 2023, also email thore@itu.dk. Hosting involves very little; but you _must_ provide a setup for a _physical_ event that is consistent in atmosphere with WCFD. In particular, it shouldn't feel like a competition, and the host should hand out free beverages for solved problems.
