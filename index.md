@@ -32,6 +32,12 @@ Known hosts:
 * [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk)
 * [Goethe-Universität Frankfurt](https://tcs.uni-frankfurt.de/wcfd/)
 
+Sponsors:
+
+* Department of Computer Science, IT University of Copenhagen
+* [Basic Algorithms Research Copenhagen (BARC)](https://barc.ku.dk)
+* [Mikkeller Beer](http://mikkeller.com)
+
 * **Call for problems.** If you want to join problem development, email thore@itu.dk, preferably with a suggestion or two for a problem. Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time during September and October 2023.
 * **Call for hosts.** If you want to _host_ a WCFD event in 2023, also email thore@itu.dk. Hosting involves very little; but you _must_ provide a setup for a _physical_ event that is consistent in atmosphere with WCFD. In particular, it shouldn't feel like a competition, and the host should hand out free beverages for solved problems.
 
@@ -58,7 +64,7 @@ Here’s how to have the most fun:
 * One free beverage per solved problem per person, up to a maximum of three beverages per person.
 * Some twenty different programming languages are accepted, including Java, Python, JavaScript, and various C dialects. 
   See the [Kattis language overview](https://open.kattis.com/help) for the full list.
-* No prior registration is required. Create your team at [wcfd22.kattis.com](https://wcfd22.kattis.com) at any time, including after the event has started. Help with this is available from 15:45 in ScrollBar. Anonymous participation is fine; creative team names are appreciated.
+* No prior registration is required. When the server is up, you can create your team at [wcfd23.kattis.com](https://wcfd23.kattis.com) at any time, including after the event has started. Help with this is available from 15:45 in ScrollBar. Anonymous participation is fine; creative team names are appreciated.
 * After your team solves a problem (and having it accepted on the server), you will get a drinks tickets for the bar.
 
 Previous events
