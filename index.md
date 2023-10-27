@@ -63,7 +63,7 @@ Here’s how to have the most fun:
 * The event lasts for three hours and contains half a dozen problems. 
 * One free beverage per solved problem per person, up to a maximum of three beverages per person.
 * Some twenty different programming languages are accepted, including Java, Python, JavaScript, and various C dialects. 
-  See the [Kattis language overview](https://open.kattis.com/help) for the full list.
+  See the [Kattis language overview](https://open.kattis.com/languages) for the full list.
 * No prior registration is required. When the server is up, you can create your team at [wcfd23.kattis.com](https://wcfd23.kattis.com) at any time, including after the event has started. Help with this is available from 15:45 in ScrollBar. Anonymous participation is fine; creative team names are appreciated.
 * After your team solves a problem (and having it accepted on the server), you will get a drinks tickets for the bar.
 
