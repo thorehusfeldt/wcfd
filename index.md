@@ -1,14 +1,14 @@
 **Will Code For Drinks** is a social event originating at [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk)
 Teams of friends collaborate to solve entertaining programming problems in return for free beverages at the bar.
 
-![](assets/wcfd-banner.png)
+![](images/WCFD2023_readit.png)
 
 With more than 150 teams participating, **Will Code For Drinks** is one of the largest programming events in Scandinavia.
 The problems are constructed to be attractive for newcomers, the atmosphere is extremely relaxed, and participants are encouraged to help each other with problem solving, debugging, or basic programming language or computer issues.
 Assistants are available and eager to help at all times during the event.
-The focus is on problem solving, social interaction within and among teams, programming, confidence-building, and fun.
+The focus is on problem solving, social interaction within and among teams, programming, confidence-building and fun.
 
-Unlike many similar events, **Will Code For Drinks** is not a competition---there are no prizes to win for programming skills and there is no awards ceremony.
+Although **Will Code For Drinks** is not a coding competition and there’s no prizes to win for programming skills, we do have a special challenge for you. Show off your creativity and style, and get ready to flaunt your unique team spirit and coding fashion. The number one best-dressed team will be awarded a prize by the end of the event.
 
 Who is this for?
 ----------------
@@ -24,7 +24,7 @@ Some of the problems are easy enough even for Computer Science professors!
 Next event
 ----------
 
-**Will Code For Drinks 2023** takes place on Friday, 10 November 2023, 16–19 (Copenhagen time).
+**Will Code For Drinks 2023** takes place on Friday, 10 November 2023, 16–19 (Copenhagen time). The event is sponsored by the renowed danish brewery [Mikkeller](https://www.mikkeller.com).
 
 Known hosts:
 
@@ -57,9 +57,9 @@ Details
 
 Here’s how to have the most fun:
 
-* Bring your own laptop, which must be able to connect to the wireless network, for instance via eduroam.
-* One laptop per team
-* Up to three people per team, three is best
+* Bring your own (fully charged) laptop, which must be able to connect to the wireless network, for instance via eduroam. We won't have facilities for plugging in extenders, so charging options will be *very limited*.
+* One laptop per team.
+* Up to three people per team, three is best.
 * The event lasts for three hours and contains half a dozen problems. 
 * One free beverage per solved problem per person, up to a maximum of three beverages per person.
 * Some twenty different programming languages are accepted, including Java, Python, JavaScript, and various C dialects. 
