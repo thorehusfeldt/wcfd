@@ -24,7 +24,11 @@ Some of the problems are easy enough even for Computer Science professors!
 Next event
 ----------
 
-**Will Code For Drinks 2023** takes place on Friday, 10 November 2023, 16–19 (Copenhagen time). The event is sponsored by the renowed danish brewery [Mikkeller](https://www.mikkeller.com).
+**Will Code For Drinks 2023** takes place on Friday, 10 November 2023,
+16–19 (Copenhagen time). The event is sponsored by the renowed danish
+brewery [Mikkeller](https://www.mikkeller.com). Register your team by
+logging in on the Kattis server and joining the
+[contest](https://wcfd23.kattis.com/contests/zyvjge).
 
 Known hosts:
 
