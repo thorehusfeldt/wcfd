@@ -30,6 +30,8 @@ brewery [Mikkeller](https://www.mikkeller.com). Register your team by
 logging in on the Kattis server and joining the
 [contest](https://wcfd23.kattis.com/contests/wcfd23).
 
+[Solutions 2023](/assets/solutions-2023-web.en.pdf)
+
 Known hosts:
 
 * [ScrollBar](https://scrollbar.dk), IT University of Copenhagen, [IT University of Copenhagen](https://www.itu.dk)
