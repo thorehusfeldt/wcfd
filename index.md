@@ -24,28 +24,11 @@ Some of the problems are easy enough even for Computer Science professors!
 Next event
 ----------
 
-**Will Code For Drinks 2023** takes place on Friday, 10 November 2023,
-16–19 (Copenhagen time). The event is sponsored by the renowed danish
-brewery [Mikkeller](https://www.mikkeller.com). Register your team by
-logging in on the Kattis server and joining the
-[contest](https://wcfd23.kattis.com/contests/wcfd23).
+We aim at hosting **Will Code For Drinks 2024** sometime in November 2024.
 
-[Solutions 2023](assets/solutions-2023-web.en.pdf)
+* **Call for problems.** To be announced.
 
-Known hosts:
-
-* [ScrollBar](https://scrollbar.dk), IT University of Copenhagen, [IT University of Copenhagen](https://www.itu.dk)
-* [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk)
-* [Goethe-Universität Frankfurt](https://tcs.uni-frankfurt.de/wcfd/)
-
-Sponsors:
-
-* Department of Computer Science, IT University of Copenhagen
-* [Basic Algorithms Research Copenhagen (BARC)](https://barc.ku.dk)
-* [Mikkeller Beer](http://mikkeller.com)
-
-* **Call for problems.** If you want to join problem development, email thore@itu.dk, preferably with a suggestion or two for a problem. Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time during September and October 2023.
-* **Call for hosts.** If you want to _host_ a WCFD event in 2023, also email thore@itu.dk. Hosting involves very little; but you _must_ provide a setup for a _physical_ event that is consistent in atmosphere with WCFD. In particular, it shouldn't feel like a competition, and the host should hand out free beverages for solved problems.
+* **Call for hosts.** If you want to _host_ a WCFD event in 2024, also email thore@itu.dk. Hosting involves very little; but you _must_ provide a setup for a _physical_ event that is consistent in atmosphere with WCFD. In particular, it shouldn't feel like a competition, and the host should hand out free beverages for solved problems.
 
 (No) Preparation
 ----------------
@@ -76,7 +59,9 @@ Here’s how to have the most fun:
 Previous events
 ---------------
 
-* Friday, 11 November 2022, 16-19. _Will Code for Drinks 2022_ took place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi, Aarhus Universitet](https://fredagscafeen.dk/). The problems were at [wcfd22.kattis.com](https://wcfd22.kattis.com). Problem authors: Christian Lebeda, Jakob Israelsem, Johan Sannemo, Oskar Haarklou Vejleborg, Thore Husfeldt (chair), Troels Bjerre Lund. Testers: Erik Amirell Eklöf, Maj Stenmark, Måns Magnusson, Kattis.
+* Friday, 10 November 2023, 16–19. Hosts: [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk); [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk); and [Goethe-Universität Frankfurt](https://tcs.uni-frankfurt.de/wcfd/). Sponsors: [Mikkeller](https://www.mikkeller.com) and [Basic Algorithms Research Copenhagen (BARC)](https://barc.ku.dk).
+[contest server](https://wcfd23.kattis.com/contests/wcfd23).
+* Friday, 11 November 2022, 16-19. _Will Code for Drinks 2022_ took place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi, Aarhus Universitet](https://fredagscafeen.dk/). The problems were at [wcfd22.kattis.com](https://wcfd22.kattis.com). Problem authors: Christian Lebeda, Jakob Israelsen, Johan Sannemo, Oskar Haarklou Vejleborg, Thore Husfeldt (chair), Troels Bjerre Lund. Testers: Erik Amirell Eklöf, Maj Stenmark, Måns Magnusson, Kattis.
   The ScrollBar event at ITU Copenhagen  included a _BEST TEAM COSTUME OF THE NIGHT_ award.
 * Friday, 12 November 2021, 16-19. _Will Code for Drinks 2021_ took place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi, Aarhus Universitet](https://fredagscafeen.dk/). The problems were at [wcfd21.kattis.com](https://wcfd21.kattis.com).
 The problem setters for WCFD 2021 were Troels Bjerre Lund, Thore Husfeldt (chair), Christian Janos Lebeda, Oskar Haarklou Veileborg, and Johan Sannemo. WCFD 2021 enjoyed social, financial, and/or moral support of the computer science departments at IT University of Copenhagen and Aarhus University, ScrollBar and Datalogisk Fredagscafé, the BARC Centre for Basic Algorithms Research Copenhagen, Alessandro Bruni, and Kattis.
