@@ -24,7 +24,7 @@ Some of the problems are easy enough even for Computer Science professors!
 Next event
 ----------
 
-We aim at hosting **Will Code For Drinks 2024** sometime in November 2024.
+**Will Code For Drinks 2024** is scheduled for 15 November 2024.
 
 * **Call for problems.** To be announced.
 
