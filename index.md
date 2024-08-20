@@ -41,6 +41,7 @@ However:
 * One of you should bring a computer for programming, and you’ll need pen and paper for problem solving and collaborative thinking. Bring a charger or make sure your batteries are full.
 * If you’ve never done something like this before and want to get a feeling for the type of problems appearing at the event, you can try to solve some easy problems on Open Kattis, such as [Hello World!](https://open.kattis.com/problems/hello), [Baby Bites](https://open.kattis.com/problems/babybites), or maybe even the WCFD 2019 problem [Drinking Song](https://open.kattis.com/problems/drinkingsong).
 This is particularly useful for learning how to read and write input and output. But don’t stress out over this beforehand – we’ll help during the event.
+You can find more of the older problems publicly at [Open Kattis](https://open.kattis.com/search?q=will+code+for+drinks)
 
 Details
 -------
@@ -60,9 +61,9 @@ Here’s how to have the most fun:
 Previous events
 ---------------
 
-* Friday, 10 November 2023, 16–19. Hosts: [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk); [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk); and [Goethe-Universität Frankfurt](https://tcs.uni-frankfurt.de/wcfd/). Sponsors: [Mikkeller](https://www.mikkeller.com) and [Basic Algorithms Research Copenhagen (BARC)](https://barc.ku.dk).
-[contest server](https://wcfd23.kattis.com/contests/wcfd23).
-* Friday, 11 November 2022, 16-19. _Will Code for Drinks 2022_ took place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi, Aarhus Universitet](https://fredagscafeen.dk/). The problems were at [wcfd22.kattis.com](https://wcfd22.kattis.com). Problem authors: Christian Lebeda, Jakob Israelsen, Johan Sannemo, Oskar Haarklou Vejleborg, Thore Husfeldt (chair), Troels Bjerre Lund. Testers: Erik Amirell Eklöf, Maj Stenmark, Måns Magnusson, Kattis.
+* Friday, 10 November 2023, 16–19. Hosts: [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk); [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk); and [Goethe-Universität Frankfurt](https://tcs.uni-frankfurt.de/wcfd/). Sponsors: [Mikkeller](https://www.mikkeller.com) and [Basic Algorithms Research Copenhagen (BARC)](https://barc.ku.dk). [[Problems on Open Kattis](https://open.kattis.com/problem-sources/Will%20Code%20for%20Drinks%202023)]
+[[wcfd23.kattis.com](https://wcfd23.kattis.com/contests/wcfd23)].
+* Friday, 11 November 2022, 16-19. _Will Code for Drinks 2022_ took place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi, Aarhus Universitet](https://fredagscafeen.dk/). The problems were at [[wcfd22.kattis.com](https://wcfd22.kattis.com)]. Problem authors: Christian Lebeda, Jakob Israelsen, Johan Sannemo, Oskar Haarklou Vejleborg, Thore Husfeldt (chair), Troels Bjerre Lund. Testers: Erik Amirell Eklöf, Maj Stenmark, Måns Magnusson, Kattis.
   The ScrollBar event at ITU Copenhagen  included a _BEST TEAM COSTUME OF THE NIGHT_ award.
 * Friday, 12 November 2021, 16-19. _Will Code for Drinks 2021_ took place in the [ScrollBar of IT University of Copenhagen](https://scrollbar.dk) and at [Fredagscaféen ved Institut for Datalogi, Aarhus Universitet](https://fredagscafeen.dk/). The problems were at [wcfd21.kattis.com](https://wcfd21.kattis.com).
 The problem setters for WCFD 2021 were Troels Bjerre Lund, Thore Husfeldt (chair), Christian Janos Lebeda, Oskar Haarklou Veileborg, and Johan Sannemo. WCFD 2021 enjoyed social, financial, and/or moral support of the computer science departments at IT University of Copenhagen and Aarhus University, ScrollBar and Datalogisk Fredagscafé, the BARC Centre for Basic Algorithms Research Copenhagen, Alessandro Bruni, and Kattis.
