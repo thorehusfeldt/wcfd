@@ -30,6 +30,7 @@ Next event
 Known hosts:
 
 * [ScrollBar](https://scrollbar.dk), IT University of Copenhagen, [IT University of Copenhagen](https://www.itu.dk), Denmark.
+* [DTU](https://dtu.dk), Danish Technical University, Kgs. Lyngby, Denmark.
 * [Bragginn in Nauthólsvík](https://bragginnbar.is), Reykjavík, Iceland; sponsored by [Tern Systems](https://www.tern.systems)
 
 * **Call for problems.** If you want to join problem development, email thore@itu.dk, preferably with a suggestion or two for a problem. Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time during September and October 2024.
