@@ -1,8 +1,8 @@
-**Will Code For Drinks** is a social event originating at [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk)
+**Will Code For Drinks** is a social event originating at [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk).
 Teams of friends collaborate to solve entertaining programming problems in return for free beverages at the bar.
 
-Friday, 15 November 2024 16:15–19:00
-------------------------------------
+Friday, 15 November 2024 16:15–19:00 (CET)
+------------------------------------------
 
 With more than 150 teams participating, **Will Code For Drinks** is one of the largest programming events in Scandinavia.
 The problems are constructed to be attractive for newcomers, the atmosphere is extremely relaxed, and participants are encouraged to help each other with problem solving, debugging, or basic programming language or computer issues.
@@ -25,11 +25,12 @@ Some of the problems are easy enough even for Computer Science professors!
 Next event
 ----------
 
-**Will Code For Drinks 2024** is scheduled for 15 November 2024.
+**Will Code For Drinks 2024** is scheduled for 15 November 2024, 16:15–19:00 Danish time (CET).
 
 Known hosts:
 
 * [ScrollBar](https://scrollbar.dk), IT University of Copenhagen, [IT University of Copenhagen](https://www.itu.dk), Denmark.
+*  [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk). [[Facebook event](https://fb.me/e/2auPrEEtr)].
 * [DTU](https://dtu.dk), Danish Technical University, Kgs. Lyngby, Denmark.
 * [Bragginn in Nauthólsvík](https://bragginnbar.is), Reykjavík, Iceland; sponsored by [Tern Systems](https://www.tern.systems)
 
@@ -61,7 +62,7 @@ Here’s how to have the most fun:
 * One free beverage per solved problem per person, up to a maximum of three beverages per person.
 * Some twenty different programming languages are accepted, including Java, Python, JavaScript, and various C dialects. 
   See the [Kattis language overview](https://open.kattis.com/languages) for the full list.
-* No prior registration is required. When the server is up, you can create your team at [wcfd23.kattis.com](https://wcfd23.kattis.com) at any time, including after the event has started. Help with this is available from 15:45 in ScrollBar. Anonymous participation is fine; creative team names are appreciated.
+* No prior registration is required. When the server is up, you can create your team at [wcfd24.kattis.com](https://wcfd24.kattis.com) on the day of the event (or as soon as the server becomes online, which may be a few days earlier), including after the event has started. Help with this is available from 15:45 in ScrollBar. Anonymous participation is fine; creative team names are appreciated.
 * After your team solves a problem (and having it accepted on the server), you will get a drinks tickets for the bar.
 
 Previous events
