@@ -31,8 +31,9 @@ Known hosts:
 
 * [ScrollBar](https://scrollbar.dk), IT University of Copenhagen, [IT University of Copenhagen](https://www.itu.dk), Denmark.
 *  [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk). [[Facebook event](https://fb.me/e/2auPrEEtr)].
-* [DTU](https://dtu.dk), Danish Technical University, Kgs. Lyngby, Denmark.
+* Studentercaféen Hegnet, [DTU](https://dtu.dk), Technical University of Denmark, Kgs.Lyngby. Sponsorered by JobIndex and Netcompany; [[Facebook event](https://facebook.com/events/s/will-code-for-drinks-hegnet-x-/541662995144981/)].
 * [Bragginn in Nauthólsvík](https://bragginnbar.is), Reykjavík, Iceland; sponsored by [Tern Systems](https://www.tern.systems)
+* Bergen, Norway (details to be announced.)
 
 * **Call for problems.** If you want to join problem development, email thore@itu.dk, preferably with a suggestion or two for a problem. Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time during September and October 2024.
 
