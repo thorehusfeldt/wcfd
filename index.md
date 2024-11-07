@@ -1,7 +1,7 @@
 **Will Code For Drinks** is a social event originating at [ScrollBar](https://scrollbar.dk) at [IT University of Copenhagen](https://www.itu.dk).
 Teams of friends collaborate to solve entertaining programming problems in return for free beverages at the bar.
 
-Friday, 15 November 2024 16:15–19:00 (CET)
+Friday, 15 November 2024 16:15–19:00 (CET) at [wcfd24.kattis.com](https://wcfd24.kattis.com) 
 ------------------------------------------
 
 With more than 150 teams participating, **Will Code For Drinks** is one of the largest programming events in Scandinavia.
