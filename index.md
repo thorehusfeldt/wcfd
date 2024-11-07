@@ -31,7 +31,7 @@ Known hosts:
 
 * [ScrollBar](https://scrollbar.dk), IT University of Copenhagen, [IT University of Copenhagen](https://www.itu.dk), Denmark.
 *  [Fredagscaféen](https://fredagscafeen.dk) at [Institut for Datalogi, Aarhus Universitet](https://cs.au.dk). [[Facebook event](https://fb.me/e/2auPrEEtr)].
-* Studentercaféen Hegnet, [DTU](https://dtu.dk), Technical University of Denmark, Kgs.Lyngby. Sponsorered by JobIndex and Netcompany; [[Facebook event](https://facebook.com/events/s/will-code-for-drinks-hegnet-x-/541662995144981/)].
+* <del>Studentercaféen Hegnet, [DTU](https://dtu.dk), Technical University of Denmark, Kgs.Lyngby. Sponsorered by JobIndex and Netcompany; [[Facebook event](https://facebook.com/events/s/will-code-for-drinks-hegnet-x-/541662995144981/)].</del> Postponed due to renovation.
 * [Bragginn in Nauthólsvík](https://bragginnbar.is), Reykjavík, Iceland; sponsored by [Tern Systems](https://www.tern.systems)
 * NHH Code in Aud Q, [NHH Norwegian School of Economics](https://www.nhh.no), Bergen, Norway.
 
