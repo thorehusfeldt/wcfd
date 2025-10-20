@@ -23,12 +23,11 @@ Some of the problems are easy enough even for Computer Science professors!
 Next event
 ----------
 
-**Will Code For Drinks 2025** is planned for November 2025, 16:15–19:00 Danish time (CET), probably on a Friday.
+**Will Code For Drinks 2026** is planned for February 2026, 16:15–19:00 Danish time (CET), probably on a Friday. (There will be no November 2025 event; the calendar is simply too full in November.)
 
+* **Call for problems 2026.** If you want to join problem development, email thore@itu.dk, preferably with a suggestion or two for a problem. Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time on this during December and January 2025.
 
-* **Call for problems 2025.** If you want to join problem development, email thore@itu.dk, preferably with a suggestion or two for a problem. Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time during September and October 2025.
-
-* **Call for hosts.** If you want to _host_ a WCFD event in 2025, also email thore@itu.dk. Hosting involves very little; but you _must_ provide a setup for a _physical_ event that is consistent in atmosphere with WCFD. In particular, it shouldn't feel like a competition, and the host should hand out free beverages for solved problems.
+* **Call for hosts.** If you want to _host_ a WCFD event in 2026, also email thore@itu.dk. Hosting involves very little; but you _must_ provide a setup for a _physical_ event that is consistent in atmosphere with WCFD. In particular, it shouldn't feel like a competition, and the host should hand out free beverages for solved problems.
 
 (No) Preparation
 ----------------
