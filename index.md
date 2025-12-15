@@ -74,3 +74,11 @@ The problem setters for WCFD 2021 were Troels Bjerre Lund, Thore Husfeldt (chair
 * 29 November 2019. [[Problems on Open Kattis](https://open.kattis.com/problem-sources/Will%20Code%20for%20Drinks%202019/2)],  [[Event on ITU’s Kattis](https://itu.kattis.com/sessions/wcfdf2019)], [[repo with solutions and problem data](https://github.com/thorehusfeldt/will-code-for-drinks-F2019)]
 * 12 April 2019. [[Event on Open Kattis](https://open.kattis.com/contests/fwmxyb)]
 * 23 November 2018. [[Event on Open Kattis](https://open.kattis.com/contests/f4ktq9)]
+
+The Brand
+---------
+
+Please be nice and avoid directly copying _Will Code for Drinks_.
+There’s a lot of love, time, and effort by multiple people behind this idea and brand.
+If you want to arrange an event where people get beers for solving computational problems: awesome!
+But please come up with a name that cannot be confused with _Will Code for Drinks_.
