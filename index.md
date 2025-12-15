@@ -23,11 +23,16 @@ Some of the problems are easy enough even for Computer Science professors!
 Next event
 ----------
 
-**Will Code For Drinks 2026** is planned for February 2026, 16:15–19:00 Danish time (CET), probably on a Friday. (There will be no November 2025 event; the calendar is simply too full in November.)
+**Will Code For Drinks 2026** is planned for February–March 2025, 16:15–18:45 Danish time (CET), probably on a Friday.
 
-* **Call for problems 2026.** If you want to join problem development, email thore@itu.dk, preferably with a suggestion or two for a problem. Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time on this during December and January 2025.
+* **Call for problems 2026.** If you want to join problem development, email `thore@itu.dk`, preferably with a suggestion or two for a problem. 
+WCFD is not a competition, and there is less focus on _original_ problems than in other events.
+Instead, what is important is thematic consistency – anything related to bars or beverages or social activities is great, including slightly risqué (but never vulgar) topics.
+In particular, if you have a problem in mind that you can’t submit to other events because it’s “well-known,” but which makes sense as a WCFD problem: we’d love to see it. Easy problems are great; WCFD is supposed to be fun and accessible.
 
-* **Call for hosts.** If you want to _host_ a WCFD event in 2026, also email thore@itu.dk. Hosting involves very little; but you _must_ provide a setup for a _physical_ event that is consistent in atmosphere with WCFD. In particular, it shouldn't feel like a competition, and the host should hand out free beverages for solved problems.
+  Problem development happens in a shared Github repository and uses [BAPCtools](https://github.com/RagnarGrootKoerkamp/BAPCtools), communication is via Slack. We expect to spend considerable time during January 2026 on this. 
+
+* **Call for hosts.** If you want to _host_ a WCFD event in 2026, also email thore@itu.dk. Hosting involves very little; but you _must_ provide a setup for a _physical_ event that is consistent in atmosphere with WCFD. In particular, it shouldn't feel like a competition, and the host should hand out free beverages for solved problems. Handing out non-alcoholic beverages is explictly _fine_, as long as the atmosphere is great.
 
 (No) Preparation
 ----------------
